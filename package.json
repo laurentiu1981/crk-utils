@@ -1,0 +1,23 @@
+{
+  "name": "crk-utils",
+  "version": "1.0.0",
+  "description": "test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurentiu1981/crk-utils.git"
+  },
+  "keywords": [
+    "react",
+    "test"
+  ],
+  "author": "Laurentiu Lese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurentiu1981/crk-utils/issues"
+  },
+  "homepage": "https://github.com/laurentiu1981/crk-utils#readme"
+}
